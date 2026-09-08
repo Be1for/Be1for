@@ -1,6 +1,6 @@
 # привет! я belfor 👋
 
-Опыт: Lua/Luau — 2 года, HTML — 1 месяц.
+Опыт: Lua/Luau — 3 года, HTML — 1 месяц.
 
 Основной кодер - [Candy Ware](https://discord.gg/EKzJMGKa6c).
 
